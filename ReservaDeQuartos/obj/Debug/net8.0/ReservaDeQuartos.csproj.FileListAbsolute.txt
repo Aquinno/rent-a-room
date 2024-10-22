@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\bin\Debug\net8.0\ReservaDeQuartos.exe
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\bin\Debug\net8.0\ReservaDeQuartos.deps.json
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\bin\Debug\net8.0\ReservaDeQuartos.runtimeconfig.json
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\bin\Debug\net8.0\ReservaDeQuartos.dll
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\bin\Debug\net8.0\ReservaDeQuartos.pdb
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\ReservaDeQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\ReservaDeQuartos.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\ReservaDeQuartos.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\ReservaDeQuartos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\ReservaDeQuartos.dll
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\refint\ReservaDeQuartos.dll
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\ReservaDeQuartos.pdb
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\ReservaDeQuartos.genruntimeconfig.cache
+C:\Users\vinic\source\repos\ReservaDeQuartos\ReservaDeQuartos\obj\Debug\net8.0\ref\ReservaDeQuartos.dll
